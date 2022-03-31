@@ -1,0 +1,11 @@
+.poster_name{
+    font-size: 20px;
+    font-weight: 20px;
+    color: black;
+}
+.poster_desc{
+    border: none;
+    padding: 0%;
+    margin: 0%;
+    font-size: 10px;
+}

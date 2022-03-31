@@ -1,0 +1,82 @@
+.cont{
+    background-image: url("https://preview.colorlib.com/theme/nitro/images/xhero_2.jpg.pagespeed.ic.K2u_NyNVY7.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    /* position: relative; */
+}
+nav{
+    display: flex;
+    gap: 40px;
+    text-align: right;
+    place-content: right;
+    margin-left: 550px;
+    color: white;
+}
+p{
+    font-size: 20px;
+    color: white;
+}
+hr{
+    color: white;
+}
+h1{
+    margin-left: 100px;
+    color: white;
+}
+.main{
+    display: flex;
+    padding-top: 20px;
+    /* text-decoration: underline; */
+}
+/* .navside{
+    align-items: right;
+} */
+.welcome{
+    /* font-size: 900px; */
+    width: 50%;
+    /* font-weight: 900; */
+    text-align: center;
+    /* padding: 1%; */
+    /* margin-top: 20px;
+    margin-left: 10%; */
+    margin: 40px auto;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+/* .welcomeh1{
+    font-size: 30px;
+    text-align: center;
+    width: 80%;
+    margin: 10px auto;
+} */
+.welcomeBelow{
+    width: 80%;
+    margin: 10px auto;
+}
+/* .welcome > h1{
+    text-align: center;
+    font-size: 50px;
+} */
+button{
+    background-color: #007bff;
+    
+    border-radius: 20px;
+    /* padding: 15px; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 150px;
+    color: white;
+    font-size: 20px;
+    border: none;
+    outline: none;
+}
+.welcome > button:hover{
+    background-color: black;
+    color: white;
+}
+span{
+color: #007bff;
+}

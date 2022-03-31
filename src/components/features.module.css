@@ -1,0 +1,35 @@
+.heading{
+    color: #007bff;
+    font-size: 40px;
+    font-weight: 700;
+}
+.features_content{
+    padding: 20px;
+    color: gray;
+    font-size: 20px;
+}
+.features_main{
+    width: 100%;
+    display: flex;
+}
+.features_left{
+    width: 50%;
+}
+.features_right{
+    width: 50%;
+}
+.content_right{
+    padding: 20px;
+    color: gray;
+    font-size: 20px;
+}
+.features__rightBtn{
+    color: #fff;
+    background-color: #007bff;
+    width: 130px;
+    outline: none;
+    border-radius: 25px;
+}
+.features__baap{
+    padding: 40px;
+}

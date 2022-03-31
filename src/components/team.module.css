@@ -1,0 +1,17 @@
+.team_heading{
+    color: #007bff;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 40px;
+}
+.team_content{
+    padding: 20px;
+    color: gray;
+    font-size: 20px;
+}
+.r1{
+    display: flex;
+    gap: 5%;
+    margin-left: 100px;
+    padding: 40px;
+}
