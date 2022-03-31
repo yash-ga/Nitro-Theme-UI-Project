@@ -50,9 +50,12 @@ export function Contact() {
         <div>
             <label className={styles.email}>Message</label>
             <br />
-            <input type="text" className={styles.einput}/>
+            <input type="text" className={styles.message} placeholder="Write your messsage here..."/>
         </div>
+        <div>
+
         <button className={styles.sendMessageBtn}> Send Message</button>
+        </div>
       </div>
     </div>
   );

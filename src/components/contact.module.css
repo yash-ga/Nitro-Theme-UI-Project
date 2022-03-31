@@ -77,3 +77,8 @@
     color: #fff;
     border-radius: 30px;
 }
+.message{
+    width: 80%;
+ border-radius: 40px;
+    height: 200px;
+}
